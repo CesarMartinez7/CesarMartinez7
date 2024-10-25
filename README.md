@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**CesarMartinez7/CesarMartinez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/CesarMartinez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
