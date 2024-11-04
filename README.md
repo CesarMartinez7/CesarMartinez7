@@ -2,7 +2,7 @@
 
 ### 👋 Hola, soy [Cesar]!
 
-Soy un desarrollador junior en el mundo del desarrollo de software. Me apasiona aprender y crecer en el campo de la tecnología, y tengo un especial interés en JavaScript, Python, REACT, Css, etc.
+Soy un desarrollador junior en el mundo del desarrollo de software. Me apasiona aprender y crecer en el campo de la tecnología, y tengo un especial interés en JavaScript, Python, React, Css, etc.
 
 
 ### 💼 Proyectos destacados:
