@@ -8,7 +8,7 @@ Soy un desarrollador junior en el mundo del desarrollo de software. Me apasiona 
 ### 💼 Proyectos destacados:
 - **FastData**: Una WebApp basada en la lectura de datos y exportación de datos a CSV y Excel, con gráficos integrados haciendo uso de tecnologías mordernas.
 -  **PySoccer**: Juego de futbol desarrollado a partir de modulo o libreria de python Pygame
--  
+  
 
 
 ### 📫 Conéctate conmigo:
