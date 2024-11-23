@@ -14,6 +14,7 @@ Soy un desarrollador junior en el mundo del desarrollo de software. Me apasiona 
 ### 📫 Conéctate conmigo:
 - cesarwamartinez@gmail.com
 - ![Linkedin](https://www.linkedin.com/in/cesar-martinez-383943332/)
+- [Portfolio](https://portfolio-kn20v8ulq-cesarmartinez7s-projects.vercel.app/) (Soon)
 
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por seguir aprendiendo y me gustaría colaborar en proyectos más grandes.
