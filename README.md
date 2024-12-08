@@ -1,6 +1,6 @@
 
 
-### 👋 Hola, soy [Cesar]!
+## 👋 Hola, soy [Cesar]!
 
 Soy un programador junior apasionado por la tecnología y el desarrollo de software. Me considero una persona autodisciplinada y comprometida con el aprendizaje continuo.
 
