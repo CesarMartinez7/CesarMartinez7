@@ -12,7 +12,7 @@ En mi perfil encontrarás diferentes tipos de proyectos personales para automati
 - **[PySoccer](https://github.com/CesarMartinez7/PySoccer)**: Juego de fútbol desarrollado con la librería Pygame de Python.
 - **[Components CSS](https://github.com/CesarMartinez7/ComponentsCSS)**: Repositorio de componentes creados con CSS puro.
 - **[Form](https://despliegue-jy96.onrender.com)**: Formulario interactivo desplegado en Render, que utiliza una pequeña base de datos de PostgreSQL. Toma inspiración del sign-up de PlanetScale por su sencillez en el frontend. Hace uso de tecnologías como Express y Node para el backend, y React y Tailwind CSS para el frontend.
-- **[Calculadora](https://github.com/CesarMartinez7/Calculadora)**: Calculadora estática hecha en Vanilla JavaScript.
+- **[Calculadora](http://calculadorax.free.nf/?i=1)**: Calculadora estática hecha en Vanilla JavaScript.
 - **[CatchyBot](https://github.com/CesarMartinez7/CatchyBot)**: Bot de Telegram hecho en Python que permite descargar música y videos en formato WEBM, enviándolos al cliente como respuesta.
 - **[Dragon ball Wiki](https://dragonball-mjs3.onrender.com/)**: Información detallada de los personajes de Dragon Ball. Conoce sus orígenes, habilidades y momentos icónicos.
 
