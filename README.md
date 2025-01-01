@@ -29,7 +29,7 @@ En mi perfil encontrarás diferentes tipos de proyectos personales para automati
 [![](https://visitcount.itsvg.in/api?id=CesarMartinez7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-martinez-383943332/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-martinez-3839433323/) 
 
 ---
 
