@@ -8,29 +8,15 @@ Soy un **programador junior** apasionado por la **tecnología** y el **desarroll
 ### 💼 Proyectos Personales
 En mi perfil encontrarás diferentes tipos de proyectos personales para automatizar tareas y más. Aquí algunos de ellos:
 
-- **[FastData](https://github.com/CesarMartinez7/DataFast)**: WebApp para la lectura y exportación de datos a CSV y Excel, con gráficos integrados utilizando tecnologías modernas.
-- **[PySoccer](https://github.com/CesarMartinez7/PySoccer)**: Juego de fútbol desarrollado con la librería Pygame de Python.
-- **[Components CSS](https://github.com/CesarMartinez7/ComponentsCSS)**: Repositorio de componentes creados con CSS puro.
-- **[Form](https://despliegue-jy96.onrender.com)**: Formulario interactivo desplegado en Render, que utiliza una pequeña base de datos de PostgreSQL. Toma inspiración del sign-up de PlanetScale por su sencillez en el frontend. Hace uso de tecnologías como Express y Node para el backend, y React y Tailwind CSS para el frontend.
-- **[Calculadora](http://calculadorax.free.nf/?i=1)**: Calculadora estática hecha en Vanilla JavaScript.
-- **[CatchyBot](https://github.com/CesarMartinez7/CatchyBot)**: Bot de Telegram hecho en Python que permite descargar música y videos en formato WEBM, enviándolos al cliente como respuesta.
-- **[Dragon ball Wiki](https://dragonball-mjs3.onrender.com/)**: Información detallada de los personajes de Dragon Ball. Conoce sus orígenes, habilidades y momentos icónicos.
+- **[FastData](https://github.com/CesarMartinez7/DataFast)**
+- **[PySoccer](https://github.com/CesarMartinez7/PySoccer)**
+- **[Components CSS](https://github.com/CesarMartinez7/ComponentsCSS)**
+- **[Form](https://despliegue-jy96.onrender.com)**
+- **[Calculadora](http://calculadorax.free.nf/?i=1)**
+- **[CatchyBot](https://github.com/CesarMartinez7/CatchyBot)**
+- **[Dragon ball Wiki](https://dragonball-mjs3.onrender.com/)**
 
 ### 📊 Estadísticas de GitHub
-![](https://github-readme-stats.vercel.app/api?username=CesarMartinez7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CesarMartinez7&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarMartinez7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Repositorio Más Contribuido
-![](https://github-contributor-stats.vercel.app/api?username=CesarMartinez7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=CesarMartinez7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-martinez-3839433323/) 
-
----
-
-¡Gracias por visitar mi perfil! Estoy emocionado p...
