@@ -9,7 +9,7 @@ Soy un programador junior especializado en el desarrollo web con React y TypeScr
 En mi perfil encontrarás diferentes tipos de proyectos personales para automatizar tareas y más. Aquí algunos de ellos:
 
 - **[delfilms](https://delfilms.pages.dev/)**
-- **[animeTS](https://animepy.pages.dev/)**
+- **[animeTS](https://animets.pages.dev/)**
 - **[Dragon ball Wiki](https://dragon-ball-iota.vercel.app/)**
 - **[Calculadora](http://calculadorax.free.nf/?i=1)**
 - **[FastData](https://github.com/CesarMartinez7/DataFast)**
