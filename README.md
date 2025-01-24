@@ -10,7 +10,7 @@ En mi perfil encontrarás diferentes tipos de proyectos personales para automati
 
 - **[delfilms](https://delfilms.pages.dev/)**
 - **[animeTS](https://animets.pages.dev/)**
-- **[Dragon ball Wiki](https://dragon-ball-iota.vercel.app/)**
+- **[Dragon ball Wiki](https://dragonballwiki.pages.dev/)**
 - **[Calculadora](http://calculadorax.free.nf/?i=1)**
 - **[FastData](https://github.com/CesarMartinez7/DataFast)**
 - **[PySoccer](https://github.com/CesarMartinez7/PySoccer)**
