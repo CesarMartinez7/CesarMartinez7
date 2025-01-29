@@ -8,7 +8,7 @@ Soy un programador junior especializado en el desarrollo web con React y TypeScr
 ### 💼 Proyectos Personales
 En mi perfil encontrarás diferentes tipos de proyectos personales de desarrollo web y más. Aquí algunos de ellos:
 
-- **[dexTS](https://mangats.pages.dev/)**
+- **[dexTS](https://dexts.pages.dev/)**
 - **[delfilms](https://delfilms.pages.dev/)**
 - **[animeTS](https://animets.pages.dev/)**
 - **[Dragon ball Wiki](https://dragonballwiki.pages.dev/)**
