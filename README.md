@@ -1,4 +1,4 @@
-# 👋 Hola, soy Cesar!
+# 👋 Hello, Soy Cesar!
 
 Apasionado programador frontend con experiencia en la creación de interfaces web modernas, interactivas y responsivas. Me encanta transformar diseños en experiencias de usuario fluidas y atractivas utilizando las últimas tecnología
 
