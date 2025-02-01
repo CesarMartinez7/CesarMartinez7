@@ -18,7 +18,7 @@ En mi perfil encontrarás diferentes tipos de proyectos personales de desarrollo
 - **[delfilms](https://delfilms.pages.dev/)**
 - **[meko ☕](https://mekoo.pages.dev/)**
 - **[Dragon ball Wiki](https://dragonballwiki.pages.dev/)**
-- **[Calculadora](http://calculadorax.free.nf/?i=1)**
+- **[Calculadora](https://github.com/CesarMartinez7/Web.git)**
 - **[FastData](https://github.com/CesarMartinez7/DataFast)**
 - **[PySoccer](https://github.com/CesarMartinez7/PySoccer)**
 - **[Components CSS](https://github.com/CesarMartinez7/ComponentsCSS)**
