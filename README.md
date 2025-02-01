@@ -16,7 +16,7 @@ En mi perfil encontrarás diferentes tipos de proyectos personales de desarrollo
 
 - **[dexTS](https://dexts.pages.dev/)**
 - **[delfilms](https://delfilms.pages.dev/)**
-- **[animeTS](https://animets.pages.dev/)**
+- **[meko ☕](https://mekoo.pages.dev/)**
 - **[Dragon ball Wiki](https://dragonballwiki.pages.dev/)**
 - **[Calculadora](http://calculadorax.free.nf/?i=1)**
 - **[FastData](https://github.com/CesarMartinez7/DataFast)**
