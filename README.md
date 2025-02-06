@@ -25,7 +25,6 @@ En mi perfil encontrarás diferentes tipos de proyectos personales de desarrollo
 - **[Components CSS](https://github.com/CesarMartinez7/ComponentsCSS)**
 - **[Form](https://despliegue-jy96.onrender.com)**
 - **[Anchor Port](https://github.com/CesarMartinez7/AnchorPorts)**
-- 
 
 ### 📊 Estadísticas de GitHub
 
