@@ -13,6 +13,7 @@ Apasionado programador frontend con experiencia en la creación de interfaces we
 
 ### 💼 Proyectos Personales
 - **[DexTS](https://dexts.pages.dev/)**
+- **[GalleryPhotoNext](https://gallerry-two.vercel.app/)**
 - **[delfilms](https://delfilms.pages.dev/)**
 - **[meko ☕](https://mekoo.pages.dev/)**
 - **[Dragon ball Wiki](https://dragonballwiki.pages.dev/)**
