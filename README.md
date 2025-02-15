@@ -12,7 +12,7 @@ Apasionado programador frontend con experiencia en la creación de interfaces we
 
 
 ### 💼 Proyectos Personales
-- **[Mi Porfolio](https://cesar7.pages.dev/)**
+- **[Mi Portfolio](https://cesar7.pages.dev/)**
 - **[DexTS](https://dexts.pages.dev/)**
 - **[GalleryPhotoNext](https://gallerry-two.vercel.app/)**
 - **[delfilms](https://delfilms.pages.dev/)**
