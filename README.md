@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mercado Libre clon**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker, Figma and Bash**
 
 - 👨‍💻 All of my projects are available at [https://cesar7.pages.dev](https://cesar7.pages.dev)
 
