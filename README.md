@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarmartinez7&label=Profile%20views&color=0e75b6&style=flat" alt="cesarmartinez7" /> </p>
 
 
+  
 
 - 🔭 I’m currently working on **Mercado Libre clon**
 
-- 🌱 I’m currently learning **Docker, Figma and Bash**
+- 🌱 I’m currently learning **Docker, Figma and Bash** 
 
 - 👨‍💻 All of my projects are available at [https://cesar7.pages.dev](https://cesar7.pages.dev)
 
@@ -15,7 +16,8 @@
 
 - 📫 How to reach me **cesarwamartinez@gmail.com**
 
-- 📄 Know about my experiences [Discipline Frontend developer Junior](Discipline Frontend developer Junior)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
