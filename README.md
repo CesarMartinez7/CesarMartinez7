@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Red5G**
 
-- 🌱 I’m currently learning **Docker, Figma and Bash** 
+- 🌱 I’m currently learning **Docker and Bash** 
 
 - 👨‍💻 All of my projects are available at [https://cesar7.pages.dev](https://cesar7.pages.dev)
 
