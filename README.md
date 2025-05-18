@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Docker and Bash** 
 
-- 👨‍💻 All of my projects are available at [https://cesar7.pages.dev](https://cesar7.pages.dev) or [https://cesar7.lol](www.cesar7.lol)
+- 👨‍💻 All of my projects are available at [https://cesar7.pages.dev](https://cesar7.pages.dev) or [https://www.cesar7.lol/](https://www.cesar7.lol/)
 
 - 💬 Ask me about **React, Javascript and Python**
 
