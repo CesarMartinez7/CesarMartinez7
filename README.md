@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarmartinez7&label=Profile%20views&color=0e75b6&style=flat" alt="cesarmartinez7" /> </p>
 
-<img src="user-co.svg" alt="gfdfgfdg">
+<img src="./user-co.svg" alt="gfdfgfdg">
   
 
 - 🔭 I’m currently working on **.....**
