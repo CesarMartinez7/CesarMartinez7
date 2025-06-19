@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">A passionate frontend developer from Colombia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarmartinez7&label=Profile%20views&color=0e75b6&style=flat" alt="cesarmartinez7" /> </p>
 
 
 <img src="./3.svg" alt="gfdfgfdg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarmartinez7&label=Profile%20views&color=0e75b6&style=flat" alt="cesarmartinez7" /> </p>
   
 
 - 🔭 I’m currently working on **.....**
